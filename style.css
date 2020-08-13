@@ -1,0 +1,130 @@
+.nav{
+    float: left;
+    width: 555px;
+}
+.nav ul{
+    list-style: none;
+}
+.nav ul li{
+    float: left;
+    padding: 40px 15px;
+    font-weight: bold;
+
+}
+.nav ul li a{
+    color: black;
+}
+.nav ul li a:hover{
+    color: coral;
+}
+.logo{
+    margin-top: 40px;
+}
+.mackbook{
+        width: 350px;
+        margin-top: 150px;
+    
+}
+.container{
+    overflow: hidden;
+}
+.buy-now{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    font-weight: bold;
+    border: none;
+    padding: 7px 10px;
+}
+p{
+    color: gray;
+}
+.slide{
+    
+}
+.bg2{
+    background-image: url(image/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+.sy-btn{
+    height: 10px;
+    width: 40px;
+    background-color: orange;
+    border-radius: 5px;
+    margin-left: 600px;
+
+}
+.sy-btn2{
+    height: 10px;
+    width: 40px;
+    background-color: orange;
+    border-radius: 5px;
+    margin-left:20px;
+    overflow: hidden;
+
+}
+.sec1{
+    height:700px;
+    width: 1300px;
+
+}
+.smart-phone{
+    margin-top: 40px;
+}
+.see-all{
+    color: orange;
+}
+h3{
+    margin-top: 40px;
+}
+.card-deck{
+    margin-top: 20px;
+}
+.sec2{
+    height: 700px;
+}
+h4{
+    font-weight: bold;
+}
+.card-title{
+    font-weight: bold;
+}
+.card{
+    border:none;
+    box-shadow:  5px 5px 10px lightgrey;
+    border-radius: 15px;
+}
+.sec3{
+    height: 700px;
+}
+.des{
+    height: 8px;
+    width: 160px;
+    background-color: orange;
+    border: none;
+    border-radius: 3px;
+}
+.sec4{
+    height: 800px;
+}
+.categori{
+    text-align: center;
+}
+.bag{
+    width: 200px;
+    width: 200px;
+    border: gray;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.copy{
+    margin-top: 40px;
+    width: 700px;
+    background-color: gray;
+    text-align: center;
+    margin-left: 250px;
+    color: white;
+    padding: 10px 20px;
+}
