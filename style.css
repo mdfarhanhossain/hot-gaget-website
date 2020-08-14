@@ -27,6 +27,7 @@
 }
 .container{
     overflow: hidden;
+    flex-wrap: wrap;
 }
 .buy-now{
     background-color: black;
@@ -127,4 +128,7 @@ h4{
     margin-left: 250px;
     color: white;
     padding: 10px 20px;
+}
+.sec1 .sec2 .sec3 .sec4{
+    flex-wrap: wrap;
 }
